@@ -1,0 +1,78 @@
+{
+  "version": 2,
+  "dgSpecHash": "glYc5YCxcoQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a7mad\\Desktop\\vsFolder\\TaibahValley\\ImageProcessing\\ImageProcessingApi\\ImageProcessingApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a7mad\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\a7mad\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\a7mad\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\a7mad\\.nuget\\packages\\sixlabors.imagesharp\\3.0.1\\sixlabors.imagesharp.3.0.1.nupkg.sha512",
+    "C:\\Users\\a7mad\\.nuget\\packages\\swashbuckle.aspnetcore\\8.1.1\\swashbuckle.aspnetcore.8.1.1.nupkg.sha512",
+    "C:\\Users\\a7mad\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\8.1.1\\swashbuckle.aspnetcore.swagger.8.1.1.nupkg.sha512",
+    "C:\\Users\\a7mad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\8.1.1\\swashbuckle.aspnetcore.swaggergen.8.1.1.nupkg.sha512",
+    "C:\\Users\\a7mad\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.1.1\\swashbuckle.aspnetcore.swaggerui.8.1.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-2cmq-823j-5qj8",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.0.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-5x7m-6737-26cr",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-63p8-c4ww-9cg7",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-65x7-c272-7g7r",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.0.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-g85r-6x2q-45w7",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SixLabors.ImageSharp' 3.0.1 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-qxrv-gp6x-rc23",
+      "libraryId": "SixLabors.ImageSharp",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}
